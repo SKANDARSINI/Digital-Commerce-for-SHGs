@@ -12,7 +12,7 @@ app.use(express.json());
 app.use(cors());
 
 //Database Connection with MongoDB
-mongoose.connect("mongodb+srv://Skandarsini:darsh%402312@cluster0.scqmoj3.mongodb.net/thrivetogether");
+mongoose.connect("");
 
 //API Creation
 
